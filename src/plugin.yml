@@ -1,0 +1,10 @@
+name: CountryCapitals
+version: 1.0
+author: EvilMuffinhahaha
+main: me.EvilMuffinhahaha.countrycapitals.Main
+description: Plugin to TP players to the capital of a country specified on the 1:2000 earth map.
+
+commands:
+  country:
+    aliases: [c, capital]
+    description: TP players to the capital of a country specified on the 1:2000 earth map.
