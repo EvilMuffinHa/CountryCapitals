@@ -1,0 +1,1161 @@
+cooldown: 3
+delay: 5
+countries: 
+  afghanistan:
+    capital: Kabul
+    coords:
+      - 4151
+      - 255
+      - -2068
+  albania:
+    capital: Tirana
+    coords:
+      - 1189
+      - 255
+      - -2478
+  algeria:
+    capital: Algiers
+    coords:
+      - 188
+      - 255
+      - -2202
+  andorra:
+    capital: Andorra la Vella
+    coords:
+      - 92
+      - 255
+      - -2551
+  angola:
+    capital: Luanda
+    coords:
+      - 795
+      - 255
+      - 430
+  antigua_and_barbuda:
+    capital: W. Indies
+    coords:
+      - -3612
+      - 255
+      - -1040
+  argentina:
+    capital: Buenos Aires
+    coords:
+      - -3600
+      - 255
+      - 2130
+  armenia:
+    capital: Yerevan
+    coords:
+      - 2671
+      - 255
+      - -2410
+  australia:
+    capital: Canberra
+    coords:
+      - 8948
+      - 255
+      - 2085
+  austria:
+    capital: Vienna
+    coords:
+      - 982
+      - 255
+      - -2892
+  azerbaijan:
+    capital: Baku
+    coords:
+      - 2996
+      - 255
+      - -2429
+  bahamas:
+    capital: Nassau
+    coords:
+      - -4600
+      - 255
+      - -1505
+  bahrain:
+    capital: Manama
+    coords:
+      - 3030
+      - 255
+      - -1570
+  bangladesh:
+    capital: Dhaka
+    coords:
+      - 5426
+      - 255
+      - -1423
+  barbados:
+    capital: Bridgetown
+    coords:
+      - -3510
+      - 255
+      - -785
+  belarus:
+    capital: Minsk
+    coords:
+      - 1650
+      - 255
+      - -3232
+  belgium:
+    capital: Brussels
+    coords:
+      - 261
+      - 255
+      - -3051
+  belize:
+    capital: Belmopan
+    coords:
+      - -5250
+      - 255
+      - -1038
+  benin:
+    capital: Porto-Novo
+    coords:
+      - 162
+      - 255
+      - -383
+  bhutan:
+    capital: Thimphu
+    coords:
+      - 5385
+      - 255
+      - -1651
+  bolivia:
+    capital: La Paz
+    coords:
+      - -4070
+      - 255
+      - 940
+  bosnia_and_herzegovina:
+    capital: Sarajevo
+    coords:
+      - 1106
+      - 255
+      - -2632
+  botswana:
+    capital: Gaborone
+    coords:
+      - 1557
+      - 255
+      - 1395
+  brazil:
+    capital: Brasilia
+    coords:
+      - -2765
+      - 255
+      - 853
+  brunei:
+    capital: Bandar Seri Begawan
+    coords:
+      - 6900
+      - 255
+      - -292
+  bulgaria:
+    capital: Sofia
+    coords:
+      - 1400
+      - 255
+      - -2565
+  burkina_faso:
+    capital: Ouagadougou
+    coords:
+      - -30
+      - 255
+      - -735
+  burundi:
+    capital: Bujumbura
+    coords:
+      - 1758
+      - 255
+      - 164
+  cambodia:
+    capital: Phnom Penh
+    coords:
+      - 6295
+      - 255
+      - -693
+  cameroon:
+    capital: Yaounde
+    coords:
+      - 695
+      - 255
+      - -230
+  canada:
+    capital: Ottawa
+    coords:
+      - -4458
+      - 255
+      - -2727
+  cape_verde:
+    capital: Praia
+    coords:
+      - -1346
+      - 255
+      - -902
+  central_african_republic:
+    capital: Bangui
+    coords:
+      - 1115
+      - 255
+      - -263
+  chad:
+    capital: N'Djamena
+    coords:
+      - 899
+      - 255
+      - -730
+  chile:
+    capital: Santiago
+    coords:
+      - -4160
+      - 255
+      - 1956
+  china:
+    capital: Beijing
+    coords:
+      - 6980
+      - 255
+      - -2395
+  colombia:
+    capital: Bogota
+    coords:
+      - -4440
+      - 255
+      - -274
+  comoros:
+    capital: Moroni
+    coords:
+      - 2596
+      - 255
+      - 620
+  republic_of_the_congo:
+    capital: Brazzaville
+    coords:
+      - 912
+      - 255
+      - 231
+  democratic_republic_of_the_congo:
+    capital: Kinshasa
+    coords:
+      - 915
+      - 255
+      - 220
+  costa_rica:
+    capital: San Jose
+    coords:
+      - -5038
+      - 255
+      - -595
+  cote_d'ivoire:
+    capital: Yamoussoukro
+    coords:
+      - -283
+      - 255
+      - -409
+  croatia:
+    capital: Zagreb
+    coords:
+      - 958
+      - 255
+      - -2750
+  cuba:
+    capital: Havana
+    coords:
+      - -4898
+      - 255
+      - -1388
+  cyprus:
+    capital: Nicosia
+    coords:
+      - 2005
+      - 255
+      - -2110
+  czech_republic:
+    capital: Prague
+    coords:
+      - 862
+      - 255
+      - -3005
+  denmark:
+    capital: Copenhagen
+    coords:
+      - 754
+      - 255
+      - -3341
+  djibouti:
+    capital: Djibouti
+    coords:
+      - 2540
+      - 255
+      - -668
+  dominica:
+    capital: Roseau
+    coords:
+      - -3636
+      - 255
+      - -920
+  dominican_republic:
+    capital: Santo Domingo
+    coords:
+      - -4081
+      - 255
+      - -1110
+  timor-leste:
+    capital: Dili
+    coords:
+      - 7534
+      - 255
+      - 451
+  ecuador:
+    capital: Quito
+    coords:
+      - -4645
+      - 255
+      - -15
+  egypt:
+    capital: Cairo
+    coords:
+      - 1874
+      - 255
+      - -1801
+  el_salvador:
+    capital: San Salvador
+    coords:
+      - -5330
+      - 255
+      - -820
+  equatorial_guinea:
+    capital: Malabo
+    coords:
+      - 530
+      - 255
+      - -225
+  eritrea:
+    capital: Asmara
+    coords:
+      - 2335
+      - 255
+      - -919
+  estonia:
+    capital: Tallinn
+    coords:
+      - 1488
+      - 255
+      - -3562
+  ethiopia:
+    capital: Addis Ababa
+    coords:
+      - 2322
+      - 255
+      - -542
+  fiji:
+    capital: Suva
+    coords:
+      - 10710
+      - 255
+      - 1074
+  finland:
+    capital: Helsinki
+    coords:
+      - 1503
+      - 255
+      - -3615
+  france:
+    capital: Paris
+    coords:
+      - 140
+      - 255
+      - -2930
+  gabon:
+    capital: Libreville
+    coords:
+      - 566
+      - 255
+      - -25
+  gambia:
+    capital: Banjul
+    coords:
+      - -920
+      - 255
+      - -808
+  georgia:
+    capital: T'bilisi
+    coords:
+      - 2690
+      - 255
+      - -2503
+  germany:
+    capital: Berlin
+    coords:
+      - 805
+      - 255
+      - -3150
+  ghana:
+    capital: Accra
+    coords:
+      - 6
+      - 255
+      - -335
+  greece:
+    capital: Athens
+    coords:
+      - 1426
+      - 255
+      - -2278
+  grenada:
+    capital: Saint George's
+    coords:
+      - -3615
+      - 255
+      - -723
+  guatemala:
+    capital: Guatemala City
+    coords:
+      - -5378
+      - 255
+      - -880
+  guinea:
+    capital: Conakry
+    coords:
+      - -731
+      - 255
+      - -569
+  guinea-bissau:
+    capital: Bissau
+    coords:
+      - -855
+      - 255
+      - -705
+  guyana:
+    capital: Georgetown
+    coords:
+      - -3468
+      - 255
+      - -410
+  haiti:
+    capital: Port-au-Prince
+    coords:
+      - -4300
+      - 255
+      - -1120
+  honduras:
+    capital: Tegucigalpa
+    coords:
+      - -5206
+      - 255
+      - -845
+  hungary:
+    capital: Budapest
+    coords:
+      - 1145
+      - 255
+      - -2849
+  iceland:
+    capital: Reykjavik
+    coords:
+      - -1203
+      - 255
+      - -3850
+  india:
+    capital: New Delhi
+    coords:
+      - 4633
+      - 255
+      - -1717
+  indonesia:
+    capital: Jakarta
+    coords:
+      - 6409
+      - 255
+      - 351
+  iran:
+    capital: Tehran
+    coords:
+      - 3090
+      - 255
+      - -2144
+  iraq:
+    capital: Baghdad
+    coords:
+      - 2670
+      - 255
+      - -2000
+  ireland:
+    capital: Dublin
+    coords:
+      - -345
+      - 255
+      - -3201
+  israel:
+    capital: Jerusalem
+    coords:
+      - 2112
+      - 255
+      - -1907
+  italy:
+    capital: Rome
+    coords:
+      - 749
+      - 255
+      - -2514
+  jamaica:
+    capital: Kingston
+    coords:
+      - -4510
+      - 255
+      - -1080
+  jordan:
+    capital: Amman
+    coords:
+      - 2152
+      - 255
+      - -1917
+  japan:
+    capital: Tokyo
+    coords:
+      - 8385
+      - 255
+      - -2140
+  kazakhstan:
+    capital: Astana
+    coords:
+      - 4290
+      - 255
+      - -3070
+  kenya:
+    capital: Nairobi
+    coords:
+      - 2208
+      - 255
+      - 43
+  kiribati:
+    capital: Tarawa
+    coords:
+      - 10380
+      - 255
+      - -90
+  north_korea:
+    capital: Pyongyang
+    coords:
+      - 7530
+      - 255
+      - -2349
+  south_korea:
+    capital: Seoul
+    coords:
+      - 7618
+      - 255
+      - -2251
+  kosovo:
+    capital: Pristina
+    coords:
+      - 1269
+      - 255
+      - -2560
+  kuwait:
+    capital: Kuwait
+    coords:
+      - 2880
+      - 255
+      - -1770
+  kyrgyzstan:
+    capital: Bishkek
+    coords:
+      - 4486
+      - 255
+      - -2574
+  laos:
+    capital: Vientiane
+    coords:
+      - 6156
+      - 255
+      - -1078
+  latvia:
+    capital: Riga
+    coords:
+      - 1448
+      - 255
+      - -3413
+  lebanon:
+    capital: Beirut
+    coords:
+      - 2131
+      - 255
+      - -2033
+  lesotho:
+    capital: Maseru
+    coords:
+      - 1650
+      - 255
+      - 1722
+  liberia:
+    capital: Monrovia
+    coords:
+      - -553
+      - 255
+      - -378
+  libya:
+    capital: Tripoli
+    coords:
+      - 787
+      - 255
+      - -1969
+  liechtenstein:
+    capital: Vaduz
+    coords:
+      - 571
+      - 255
+      - -2828
+  lithuania:
+    capital: Vilnius
+    coords:
+      - 1519
+      - 255
+      - -3278
+  luxembourg:
+    capital: Luxembourg
+    coords:
+      - 369
+      - 255
+      - -2977
+  macedonia:
+    capital: Skopje
+    coords:
+      - 1286
+      - 255
+      - -2521
+  madagascar:
+    capital: Antananarivo
+    coords:
+      - 2851
+      - 255
+      - 1025
+  malawi:
+    capital: Lilongwe
+    coords:
+      - 2028
+      - 255
+      - 840
+  malaysia:
+    capital: Kuala Lumpur
+    coords:
+      - 6101
+      - 255
+      - -189
+  maldives:
+    capital: Male
+    coords:
+      - 4408
+      - 255
+      - -240
+  mali:
+    capital: Bamako
+    coords:
+      - -365
+      - 255
+      - -754
+  malta:
+    capital: Valletta
+    coords:
+      - 871
+      - 255
+      - -2154
+  marshall_islands:
+    capital: Majuro
+    coords:
+      - 10283
+      - 255
+      - -425
+  mauritania:
+    capital: Nouakchott
+    coords:
+      - -841
+      - 255
+      - -1085
+  mauritius:
+    capital: Port Louis
+    coords:
+      - 3450
+      - 255
+      - 1190
+  mexico:
+    capital: Mexico City
+    coords:
+      - -5930
+      - 255
+      - -1160
+  micronesia:
+    capital: Palikir
+    coords:
+      - 9489
+      - 255
+      - -415
+  moldova:
+    capital: Chisinau
+    coords:
+      - 1730
+      - 255
+      - -2822
+  monaco:
+    capital: Monaco
+    coords:
+      - 445
+      - 255
+      - -2624
+  mozambique:
+    capital: Maputo
+    coords:
+      - 1952
+      - 255
+      - 1442
+  myanmar:
+    capital: Naypyidaw
+    coords:
+      - 5767
+      - 255
+      - -1185
+  namibia:
+    capital: Windhoek
+    coords:
+      - 1024
+      - 255
+      - 1285
+  nauru:
+    capital: Yaren District (unofficial)
+    coords:
+      - 7015
+      - 255
+      - -33
+  nepal:
+    capital: Kathmandu
+    coords:
+      - 5120
+      - 255
+      - -1665
+  netherlands:
+    capital: Amsterdam
+    coords:
+      - 294
+      - 255
+      - -3143
+  new_zealand:
+    capital: Wellington
+    coords:
+      - 10486
+      - 255
+      - 2441
+  nicaragua:
+    capital: Managua
+    coords:
+      - -5140
+      - 255
+      - -726
+  niger:
+    capital: Niamey
+    coords:
+      - 126
+      - 255
+      - -807
+  nigeria:
+    capital: Abuja
+    coords:
+      - 452
+      - 255
+      - -545
+  norway:
+    capital: Oslo
+    coords:
+      - 645
+      - 255
+      - -3595
+  oman:
+    capital: Muscat
+    coords:
+      - 3516
+      - 255
+      - -1417
+  pakistan:
+    capital: Islamabad
+    coords:
+      - 4390
+      - 255
+      - -2020
+  palau:
+    capital: Ngerulmud / Melekeok
+    coords:
+      - 8078
+      - 255
+      - -450
+  panama:
+    capital: Panama City
+    coords:
+      - -4715
+      - 255
+      - -540
+  papua_new_guinea:
+    capital: Port Moresby
+    coords:
+      - 8828
+      - 255
+      - 516
+  paraguay:
+    capital: Asuncion
+    coords:
+      - -3390
+      - 255
+      - 1490
+  peru:
+    capital: Lima
+    coords:
+      - -4620
+      - 255
+      - 720
+  philippines:
+    capital: Manila
+    coords:
+      - 7263
+      - 255
+      - -880
+  poland:
+    capital: Warsaw
+    coords:
+      - 1260
+      - 255
+      - -3133
+  portugal:
+    capital: Lisbon
+    coords:
+      - -530
+      - 255
+      - -2322
+  qatar:
+    capital: Doha
+    coords:
+      - 3095
+      - 255
+      - -1515
+  romania:
+    capital: Bucharest
+    coords:
+      - 1570
+      - 255
+      - -2667
+  russia:
+    capital: Moscow
+    coords:
+      - 2255
+      - 255
+      - -3345
+  rwanda:
+    capital: Kigali
+    coords:
+      - 1804
+      - 255
+      - 1
+  saint_kitts_and_nevis:
+    capital: Basseterre
+    coords:
+      - -3677
+      - 255
+      - -1037
+  saint_lucia:
+    capital: Castries
+    coords:
+      - -3542
+      - 255
+      - -842
+  saint_vincent_and_the_grenadines:
+    capital: Kingstown
+    coords:
+      - -3650
+      - 255
+      - -790
+  samoa:
+    capital: Apia
+    coords:
+      - -10210
+      - 255
+      - 730
+  san_marino:
+    capital: San Marino
+    coords:
+      - 750
+      - 255
+      - -2635
+  sao_tome_and_principe:
+    capital: Sao Tome
+    coords:
+      - 399
+      - 255
+      - -10
+  saudi_arabia:
+    capital: Riyadh
+    coords:
+      - 2802
+      - 255
+      - -1481
+  senegal:
+    capital: Dakar
+    coords:
+      - -991
+      - 255
+      - -874
+  serbia:
+    capital: Belgrade
+    coords:
+      - 1237
+      - 255
+      - -2690
+  seychelles:
+    capital: Victoria
+    coords:
+      - 3327
+      - 255
+      - 202
+  sierra_leone:
+    capital: Freetown
+    coords:
+      - -763
+      - 255
+      - -510
+  singapore:
+    capital: Singapore
+    coords:
+      - -6129
+      - 255
+      - -78
+  slovakia:
+    capital: Bratislava
+    coords:
+      - 1027
+      - 255
+      - -2890
+  slovenia:
+    capital: Ljubljana
+    coords:
+      - 873
+      - 255
+      - -2764
+  solomon_islands:
+    capital: Honiara
+    coords:
+      - 9597
+      - 255
+      - 513
+  somalia:
+    capital: Mogadishu
+    coords:
+      - 2725
+      - 255
+      - -122
+  south_africa:
+    capital: Pretoria
+    coords:
+      - 1692
+      - 255
+      - 1456
+  south_sudan:
+    capital: Juba
+    coords:
+      - 1896
+      - 255
+      - -291
+  spain:
+    capital: Madrid
+    coords:
+      - -135
+      - 255
+      - -2425
+  sri_lanka:
+    capital: Colombo
+    coords:
+      - -4687
+      - 255
+      - -416
+  sudan:
+    capital: Khartoum
+    coords:
+      - 1955
+      - 255
+      - -931
+  suriname:
+    capital: Paramaribo
+    coords:
+      - -3290
+      - 255
+      - -350
+  swaziland:
+    capital: Mbabane
+    coords:
+      - 1866
+      - 255
+      - 1542
+  sweden:
+    capital: Stockholm
+    coords:
+      - 1083
+      - 255
+      - -3560
+  switzerland:
+    capital: Bern
+    coords:
+      - 448
+      - 255
+      - -2817
+  syria:
+    capital: Damascus
+    coords:
+      - 2178
+      - 255
+      - -2010
+  taiwan:
+    capital: Taipei
+    coords:
+      - 7294
+      - 255
+      - -1502
+  tajikistan:
+    capital: Dushanbe
+    coords:
+      - 4128
+      - 255
+      - -2313
+  tanzania:
+    capital: Dodoma
+    coords:
+      - 2145
+      - 255
+      - 352
+  thailand:
+    capital: Bangkok
+    coords:
+      - 6035
+      - 255
+      - -825
+  togo:
+    capital: Lome
+    coords:
+      - 80
+      - 255
+      - -369
+  tonga:
+    capital: Nuku'alofa
+    coords:
+      - -10440
+      - 255
+      - 1250
+  trinidad_and_tobago:
+    capital: Port-of-Spain
+    coords:
+      - -3629
+      - 255
+      - -640
+  tunisia:
+    capital: Tunis
+    coords:
+      - 611
+      - 255
+      - -2210
+  turkey:
+    capital: Ankara
+    coords:
+      - 1974
+      - 255
+      - -2397
+  turkmenistan:
+    capital: Ashgabat
+    coords:
+      - 3470
+      - 255
+      - -2280
+  tuvalu:
+    capital: Funafuti
+    coords:
+      - 10753
+      - 255
+      - 449
+  uganda:
+    capital: Kampala
+    coords:
+      - 1950
+      - 255
+      - -20
+  ukraine:
+    capital: Kiev
+    coords:
+      - 1828
+      - 255
+      - -3030
+  united_arab_emirates:
+    capital: Abu Dhabi
+    coords:
+      - 3262
+      - 255
+      - -1468
+  united_kingdom:
+    capital: London
+    coords:
+      - 5
+      - 255
+      - -3096
+  united_states_of_america:
+    capital: Washington DC
+    coords:
+      - -4618
+      - 255
+      - -2431
+  uruguay:
+    capital: Montevideo
+    coords:
+      - -3349
+      - 255
+      - 1990
+  uzbekistan:
+    capital: Tashkent
+    coords:
+      - 4150
+      - 255
+      - -2480
+  vanuatu:
+    capital: Port-Vila
+    coords:
+      - 10098
+      - 255
+      - 975
+  vatican_city:
+    capital: Vatican City
+    coords:
+      - 747
+      - 255
+      - -2514
+  venezuela:
+    capital: Caracas
+    coords:
+      - -3905
+      - 255
+      - -630
+  vietnam:
+    capital: Hanoi
+    coords:
+      - 6355
+      - 255
+      - -1265
+  yemen:
+    capital: Sana'a
+    coords:
+      - 2652
+      - 255
+      - -921
+  zambia:
+    capital: Lusaka
+    coords:
+      - 1696
+      - 255
+      - 872
+  zimbabwe:
+    capital: Harare
+    coords:
+      - 1862
+      - 255
+      - 977
